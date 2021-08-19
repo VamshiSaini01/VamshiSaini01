@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VamshiSaini01
 - 👀 I’m interested in Electronics and Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to get advanced in Data Science
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to get advanced in the field of Data Science
 - 📫 How to reach me, mail me at Sainivamshi221@gmail.com.
 
 <!---
